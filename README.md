@@ -6,5 +6,6 @@ Larissa Liderim burda takıldım.
 Deniyorum deniyorum.
 Bir daha deneyelim. 
 Perşembe ard arda klasörler açmanı izlemek çok kolaydı.
+Moodle den izleyerek yapmaya çalışıyorum.
 
 
