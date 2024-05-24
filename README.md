@@ -4,5 +4,6 @@ Bu repoyu yeni Core içerikleri için oluşturduk.
 Bal porsukları piton istiyor.
 Larissa Liderim burda takıldım.
 Deniyorum deniyorum.
+Baya bir bu tarz yazdım silindi.
 
 
